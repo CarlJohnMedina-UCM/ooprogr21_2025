@@ -13,6 +13,6 @@ public class Comments {
          * It's used for generating documentation for methods and classes.
          */
         
-        System.out.println("This program demonstrates comments in Java.");
+        System.out.println("This program demonstrates comments in Java."); /* This is single line comment */
     }
 }
